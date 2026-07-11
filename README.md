@@ -1,2 +1,5 @@
 # SamvadSahay
 SamvadSayaya is an inclusive learning and daily-task app for children with special needs and their parents. Parents authenticate first, register child details (disability profile + age), then use two main areas:
+SamvadSahay is a personalized assistive technology platform designed to support autistic children in developing communication, daily living skills, and independence through structured visual learning. The platform enables parents, teachers, and caregivers to create customized learning routines using images, videos, voice recordings, and step-by-step visual guidance tailored to each child's unique needs.
+
+The system features separate dashboards for caregivers and children, visual communication cards, progress tracking, multilingual support, and a reward-based learning system to encourage consistent engagement. By combining personalized content with active caregiver involvement, SamvadSahay provides an accessible, engaging, and practical solution that promotes confidence, skill development, and greater independence for autistic children.
